@@ -1,0 +1,37 @@
+The simplest Hello World shell script – Echo command
+
+
+Summation of two integers – If block
+
+
+Summation of two real numbers – bc (basic calculator) command
+
+
+Script to find out the biggest number in 3 numbers – If –elif block
+
+
+Operation (summation, subtraction, multiplication and division) of
+two numbers – Switch
+
+
+Script to reverse a given number – While block
+
+
+A more complicated greeting shell script
+
+
+Sort the given five numbers in ascending order (using array) – Do
+loop and array
+
+
+Calculating average of given numbers on command line arguments
+– Do loop
+
+
+Calculating factorial of a given number – While block
+
+
+An application in research computing – Combining all above
+
+
+Optional: Write own shell scripts for your own purposes if time
